@@ -1,0 +1,32 @@
+body{
+    
+    background: linear-gradient(cyan,blue,cyan);
+}
+
+.h1{
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.form{
+    margin-left: 50px;
+    
+}
+
+.main{
+    background: linear-gradient(green,yellow);
+    align-self: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: solid red 2px;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    
+}
+
+text.hover{
+    color: brown;
+    background-color: aqua;
+}
